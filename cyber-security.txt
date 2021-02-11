@@ -1,0 +1,10 @@
+
+#Security Assets:
+
+	- photos
+	- bank accounts details 
+	- account information - linkedin.. facebook.. amazon
+	- browser history
+	- password information
+	- financial records
+

